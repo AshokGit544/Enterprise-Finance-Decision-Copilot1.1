@@ -90,6 +90,3 @@ System Output:
 ## 🏁 Conclusion
 
 This project demonstrates how traditional finance data pipelines can be enhanced with **AI-driven decision intelligence and semantic search**, enabling organizations to move from data processing to **intelligent, actionable insights**.
-
-
-Jus
